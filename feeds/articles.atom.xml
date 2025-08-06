@@ -1,30 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Shingo Aoki - articles</title><link href="https://iam-shingooooo.github.io/" rel="alternate"></link><link href="https://iam-shingooooo.github.io/feeds/articles.atom.xml" rel="self"></link><id>https://iam-shingooooo.github.io/</id><updated>2025-08-06T00:00:00+09:00</updated><subtitle>Information Systems Specialist | Enabling Organizational Success</subtitle><entry><title>Microsoft Virtual Training Days 認定試験料50％OFF特典を受け取るための注意点</title><link href="https://iam-shingooooo.github.io/microsoft-virtual-training-days-discount-key-point.html" rel="alternate"></link><published>2025-08-06T00:00:00+09:00</published><updated>2025-08-06T00:00:00+09:00</updated><author><name>Shingo Aoki</name></author><id>tag:iam-shingooooo.github.io,2025-08-06:/microsoft-virtual-training-days-discount-key-point.html</id><summary type="html">&lt;h2&gt;記事作成の背景&lt;/h2&gt;
-&lt;p&gt;先日、Virtual Training Daysのイベントに参加したが、後述の注意点を把握しておらず、割引特典を受けられなかった。&lt;br&gt;
-本イベントの特典は基礎 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;記事作成の背景&lt;/h2&gt;
-&lt;p&gt;先日、Virtual Training Daysのイベントに参加したが、後述の注意点を把握しておらず、割引特典を受けられなかった。&lt;br&gt;
-本イベントの特典は基礎レベルの認定試験が対象で、本イベントの内容も初学者向けであるため、割引特典を受けたいと考えている人のなかには同社のイベントや認定試験に不慣れな人が一定数いると考えられる。&lt;br&gt;
-また、同社のイベントや認定試験に慣れている人であっても、私のように変更点を把握しておらず、割引特典を受けられないケースがあると想定し、そのようなケースを防ぐために注意点を共有する。&lt;/p&gt;
-&lt;h2&gt;結論&lt;/h2&gt;
-&lt;p&gt;Microsoft社が提供している本イベントに参加すると、イベントに対応した認定試験料が50％OFFになる特典が付与される。&lt;br&gt;
-その割引特典を受け取るためには、「Microsoftのアカウント」のメールアドレスでイベントに申し込む必要がある。&lt;/p&gt;
-&lt;h2&gt;注意点&lt;/h2&gt;
-&lt;p&gt;まず、以前は本イベント参加後に申込メールアドレス宛にバウチャーが届いていたが、現在はバウチャーレス方式に変更され、本イベントに申し込んだメールアドレスのアカウントで認定試験を申し込むと自動的に割引特典が適用される。&lt;br&gt;
-次に、本イベントの申し込みと参加は、Microsoftのアカウントのメールアドレスではなく、どのメールアドレスでも可能である。&lt;br&gt;
-しかし、割引特典の適用方式がバウチャーレス方式になったため、本イベント申込時のメールアドレスと認定試験申込時のアカウントのメールアドレスが一致していないと、割引特典が適用されない。&lt;br&gt;
-つまり、「Microsoftのアカウント」のメールアドレスで本イベントに申し込む必要がある。  &lt;/p&gt;
-&lt;p&gt;イベントの申し込みページの抜粋:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;既に Microsoft Learn アカウントをお持ちの場合、そのアカウントに関連付けているメール アドレスをイベント登録時に使用することをお勧めします。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Microsoft Virtual Training Daysの認定試験の割引に関するFAQの抜粋:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;認定試験の割引を受けるにはどうすればよいですか?
-手順に従ってイベント参加者認定試験割引を受けてください。サインイン時には、このイベントへの登録時に使用したメールアドレスを使用してください。Microsoft Learn アカウントを新規作成する場合は、イベントへの登録に使用したメール アドレスをMicrosoft Learn アカウントに関連付けてください。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;「Microsoftのアカウント」についての補足&lt;/h2&gt;
-&lt;p&gt;本記事における「Microsoftのアカウント」は、「職場または学校アカウント」と「Microsoftアカウント」の両方を指している。&lt;br&gt;
-認定資格は、Microsoft Learn プロファイルで管理され、このプロファイルはどちらのアカウントでも作成可能である。&lt;/p&gt;</content><category term="articles"></category></entry><entry><title>情報システム部門向け人材派遣サービス利用のポイント</title><link href="https://iam-shingooooo.github.io/it-department-temp-staffing-service-best-practices.html" rel="alternate"></link><published>2025-07-05T00:00:00+09:00</published><updated>2025-07-05T00:00:00+09:00</updated><author><name>Shingo Aoki</name></author><id>tag:iam-shingooooo.github.io,2025-07-05:/it-department-temp-staffing-service-best-practices.html</id><summary type="html">&lt;h2&gt;はじめに&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Shingo Aoki - articles</title><link href="https://iam-shingooooo.github.io/" rel="alternate"></link><link href="https://iam-shingooooo.github.io/feeds/articles.atom.xml" rel="self"></link><id>https://iam-shingooooo.github.io/</id><updated>2025-07-05T00:00:00+09:00</updated><subtitle>Information Systems Specialist | Enabling Organizational Success</subtitle><entry><title>情報システム部門向け人材派遣サービス利用のポイント</title><link href="https://iam-shingooooo.github.io/it-department-temp-staffing-service-best-practices.html" rel="alternate"></link><published>2025-07-05T00:00:00+09:00</published><updated>2025-07-05T00:00:00+09:00</updated><author><name>Shingo Aoki</name></author><id>tag:iam-shingooooo.github.io,2025-07-05:/it-department-temp-staffing-service-best-practices.html</id><summary type="html">&lt;h2&gt;はじめに&lt;/h2&gt;
 &lt;p&gt;この記事は、派遣社員として就業してきた経験をもとにしている。&lt;br&gt;
 私が派遣社員として就業してきた案件は …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;はじめに&lt;/h2&gt;
 &lt;p&gt;この記事は、派遣社員として就業してきた経験をもとにしている。&lt;br&gt;

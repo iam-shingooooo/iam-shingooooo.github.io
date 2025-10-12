@@ -5,49 +5,56 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://iam-shingooooo.github.io/</loc>
-<lastmod>2025-09-25T12:06:29-00:00</lastmod>
+<lastmod>2025-10-12T21:14:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://iam-shingooooo.github.io/tags.html</loc>
-<lastmod>2025-09-25T12:06:29-00:00</lastmod>
+<lastmod>2025-10-12T21:14:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://iam-shingooooo.github.io/categories.html</loc>
-<lastmod>2025-09-25T12:06:29-00:00</lastmod>
+<lastmod>2025-10-12T21:14:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://iam-shingooooo.github.io/authors.html</loc>
-<lastmod>2025-09-25T12:06:29-00:00</lastmod>
+<lastmod>2025-10-12T21:14:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://iam-shingooooo.github.io/archives.html</loc>
-<lastmod>2025-09-25T12:06:29-00:00</lastmod>
+<lastmod>2025-10-12T21:14:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://iam-shingooooo.github.io/pages/about.html</loc>
-<lastmod>2025-09-25T12:06:29-00:00</lastmod>
+<lastmod>2025-10-12T21:14:24-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://iam-shingooooo.github.io/pages/certifications.html</loc>
-<lastmod>2025-09-25T12:06:29-00:00</lastmod>
+<lastmod>2025-10-12T21:14:24-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://iam-shingooooo.github.io/practical-measures-for-major-information-systems-department-collapse.html</loc>
+<lastmod>2025-10-13T00:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -89,7 +96,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://iam-shingooooo.github.io/category/articles.html</loc>
-<lastmod>2025-08-24T00:00:00+09:19</lastmod>
+<lastmod>2025-10-13T00:00:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -103,7 +110,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://iam-shingooooo.github.io/author/shingo-aoki.html</loc>
-<lastmod>2025-09-20T00:00:00+09:19</lastmod>
+<lastmod>2025-10-13T00:00:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
